@@ -10,7 +10,7 @@ import Notifications from '../Notifications/Notifications';
 import CourseList from '../CourseList/CourseList';
 import { getLatestNotification } from '../utils/utils';
 
-class App extends React.Component {
+class App extends React.component {
   render() {
     // instantiate vars from props
     const { isLoggedIn } = this.props;
