@@ -48,4 +48,4 @@ App.defaultProps = {
   isLoggedIn: false,
 };
 
-export default hot(module)(App);
+export default App;
