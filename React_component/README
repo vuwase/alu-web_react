@@ -1,3 +1,13 @@
+# React Class Component Implementation
+
+This project demonstrates the conversion of a functional React component to a class component.
+
+## Key Features
+
+- The `App` component is now implemented as a class extending `React.Component`
+- Lifecycle methods (`componentDidMount` and `componentWillUnmount`) are used for event handling
+- The component maintains all previous functionality but uses class syntax
+
 # React component
 
 ## Resources
