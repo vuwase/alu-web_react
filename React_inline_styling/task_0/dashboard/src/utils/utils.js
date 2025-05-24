@@ -15,3 +15,4 @@ export function getFooterCopy(isIndex) {
 export function getLatestNotification() {
     return {__html: '<strong>Urgent requirement</strong> - complete by EOD'};
 }
+export { getLatestNotification };
